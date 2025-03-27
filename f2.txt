@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 helooooooooo
 hiiiii
+=======
+happy birthday
+
+>>>>>>> d0bfcb1 (committed)
